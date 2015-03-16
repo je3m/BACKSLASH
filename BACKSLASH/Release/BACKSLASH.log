@@ -1,0 +1,16 @@
+﻿Build started 3/16/2015 1:02:28 AM.
+     1>Project "C:\Users\jim\documents\visual studio 2013\Projects\BACKSLASH\BACKSLASH\BACKSLASH.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BACKSLASH.cpp
+         BACKSLASH.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jim\documents\visual studio 2013\Projects\BACKSLASH\Release\BACKSLASH.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\jim\documents\visual studio 2013\Projects\BACKSLASH\Release\BACKSLASH.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jim\documents\visual studio 2013\Projects\BACKSLASH\Release\BACKSLASH.lib" /MACHINE:X86 /SAFESEH Release\BACKSLASH.obj
+            Creating library C:\Users\jim\documents\visual studio 2013\Projects\BACKSLASH\Release\BACKSLASH.lib and object C:\Users\jim\documents\visual studio 2013\Projects\BACKSLASH\Release\BACKSLASH.exp
+         Generating code
+         Finished generating code
+         BACKSLASH.vcxproj -> C:\Users\jim\documents\visual studio 2013\Projects\BACKSLASH\Release\BACKSLASH.exe
+     1>Done Building Project "C:\Users\jim\documents\visual studio 2013\Projects\BACKSLASH\BACKSLASH\BACKSLASH.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.82
